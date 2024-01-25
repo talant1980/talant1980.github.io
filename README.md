@@ -221,7 +221,7 @@ https://portal.tpu.ru/SHARED/e/ELP/teaching/%D0%A1%D0%BE%D0%B2%D1%80%D0%B5%D0%BC
 ПРИЛОЖЕНИЕ 1
 
 Ссылка на сайт:
-![qr-code.gif] (https://github.com/talant1980/talant1980.github.io/edit/main/qr-code.gif)
+![QR](https://github.com/talant1980/talant1980.github.io/blob/main/qr-code.gif)
 URL: https://talant1980.github.io/
  
 СПИСОК ИСПОЛЬЗОВАННЫХ ИНТЕРНЕТ-РЕСУРСОВ
